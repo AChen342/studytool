@@ -1,4 +1,4 @@
-package com.studytool.app;
+package com.studytool.gui;
 
 public class StudyToolApp {
     public static void main(String[] args) {
