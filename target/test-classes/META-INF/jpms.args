@@ -1,0 +1,4 @@
+--patch-module
+com.studytool=_
+--add-reads
+com.studytool=ALL-UNNAMED

@@ -1,0 +1,12 @@
+com\studytool\AddExamSceneController.class
+com\studytool\TrueFalseQuestion.class
+com\studytool\Student.class
+com\studytool\SystemManager.class
+com\studytool\MainSceneController.class
+com\studytool\StudyToolApp.class
+com\studytool\ExamListSceneController.class
+com\studytool\Startup.class
+module-info.class
+com\studytool\Exam.class
+com\studytool\Manager.class
+com\studytool\Question.class

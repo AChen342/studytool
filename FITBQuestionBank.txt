@@ -1,0 +1,10 @@
+RGB stands for ___, ___, and ___.
+red,blue,green
+The mascot of the University of Maryland is
+testudo
+There are ___ days in the week.
+seven
+There are ___ planets in the solar system.
+eight
+Java is a ___ level programming language.
+high

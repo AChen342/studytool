@@ -1,0 +1,18 @@
+Please choose letter A for this question.
+A: A    B: B    C: C    D: D
+A
+What is the powerhouse of the cell?
+A: Nucleolus    B: Cilia    C: Mitochondria     D. Membrane
+C
+Solve for x in x + 2 = 7.
+A: 1    B: 5    C: 4    D: 10
+B
+Which of the following is NOT an U.S. state?
+A: Maryland     B: New York     C: Florida      D: Brookyln
+D
+Which of the following prints "Hello!" in Java?
+A: system.out.println("Hello!")    B: println("Hello!")     C: say("Hello!")
+A
+What is the binary value 1001 in decimal?
+A: 2    B: 9    C: 8    D: 6
+B
