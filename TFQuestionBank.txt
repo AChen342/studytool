@@ -1,0 +1,18 @@
+The moon orbits the Earth.
+true
+Cats always land on their feet.
+true
+Humans have four stomachs.
+false
+Penguins can fly.
+false
+Penguins live in the Arctic
+false
+Penguins live in Anarctica
+true
+Penguins don't have teeth
+true
+Penguins orginated from Australia
+true
+Penguins can survive in the jungle
+false

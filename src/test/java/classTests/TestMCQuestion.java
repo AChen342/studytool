@@ -7,11 +7,10 @@ import static org.junit.Assert.fail;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.util.Arrays;
-
 import org.junit.Test;
-
 import com.studytool.model.MultipleChoiceQuestion;
 
+/*Note MC stands for multiple choice */
 public class TestMCQuestion {
     static final String MCQUESTIONS_FILE = "MCQuestionBank.txt";
     static final String SAMPLE_QUESTION = "This is a sample question.";

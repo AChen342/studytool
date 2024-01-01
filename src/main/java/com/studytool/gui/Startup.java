@@ -1,4 +1,4 @@
-package com.studytool.app;
+package com.studytool.gui;
 
 import com.studytool.controllers.MainSceneController;
 
