@@ -1,7 +1,5 @@
 package com.studytool.model;
 
-import com.studytool.Question;
-
 public class FillInTheBlankQuestion extends Question {
 	private static final long serialVersionUID = 1L;
 	private String[] answer;
